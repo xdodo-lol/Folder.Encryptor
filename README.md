@@ -5,7 +5,9 @@ A lightweight console script that encrypts (or decrypts) **every file inside one
 ##  Features
 
 **AES-256-GCM** — authenticated encryption (protects against both reading *and* tampering)
+
 **Password-based** — no key files to lose, the key is derived from your password every time
+
 **Safe to re-run** — already-encrypted files are skipped when encrypting, already-decrypted files are skipped when decrypting
 
 # Screenshot
